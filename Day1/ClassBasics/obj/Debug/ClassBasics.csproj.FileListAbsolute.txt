@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day1\ClassBasics\bin\Debug\ClassBasics.exe.config
+C:\Users\SID_17\source\repos\Day1\ClassBasics\bin\Debug\ClassBasics.exe
+C:\Users\SID_17\source\repos\Day1\ClassBasics\bin\Debug\ClassBasics.pdb
+C:\Users\SID_17\source\repos\Day1\ClassBasics\obj\Debug\ClassBasics.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day1\ClassBasics\obj\Debug\ClassBasics.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day1\ClassBasics\obj\Debug\ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day1\ClassBasics\obj\Debug\ClassBasics.exe
+C:\Users\SID_17\source\repos\Day1\ClassBasics\obj\Debug\ClassBasics.pdb

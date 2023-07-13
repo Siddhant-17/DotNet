@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\obj\Debug\AbtsractClass.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\obj\Debug\AbtsractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\obj\Debug\AbtsractClass.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\bin\Debug\AbtsractClass.exe.config
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\bin\Debug\AbtsractClass.exe
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\bin\Debug\AbtsractClass.pdb
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\obj\Debug\AbtsractClass.exe
+C:\Users\SID_17\source\repos\Day3\AbtsractClass\obj\Debug\AbtsractClass.pdb

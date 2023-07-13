@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\bin\Debug\AccessSpecifire.exe.config
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\bin\Debug\AccessSpecifire.exe
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\bin\Debug\AccessSpecifire.pdb
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\obj\Debug\AccessSpecifire.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\obj\Debug\AccessSpecifire.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\obj\Debug\AccessSpecifire.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\obj\Debug\AccessSpecifire.exe
+C:\Users\SID_17\source\repos\Day1\AccessSpecifire\obj\Debug\AccessSpecifire.pdb

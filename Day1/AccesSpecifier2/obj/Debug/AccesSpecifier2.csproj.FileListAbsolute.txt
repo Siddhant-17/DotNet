@@ -1,0 +1,3 @@
+C:\Users\SID_17\source\repos\Day1\AccesSpecifier2\obj\Debug\AccesSpecifier2.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day1\AccesSpecifier2\obj\Debug\AccesSpecifier2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day1\AccesSpecifier2\obj\Debug\AccesSpecifier2.csproj.CoreCompileInputs.cache
