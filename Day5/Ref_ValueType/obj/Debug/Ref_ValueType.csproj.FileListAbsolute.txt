@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\bin\Debug\Ref_ValueType.exe.config
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\bin\Debug\Ref_ValueType.exe
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\bin\Debug\Ref_ValueType.pdb
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\obj\Debug\Ref_ValueType.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\obj\Debug\Ref_ValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\obj\Debug\Ref_ValueType.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\obj\Debug\Ref_ValueType.exe
+C:\Users\SID_17\source\repos\Day5\Ref_ValueType\obj\Debug\Ref_ValueType.pdb

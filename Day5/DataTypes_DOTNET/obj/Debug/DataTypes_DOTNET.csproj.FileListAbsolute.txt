@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\bin\Debug\DataTypes_DOTNET.exe.config
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\bin\Debug\DataTypes_DOTNET.exe
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\bin\Debug\DataTypes_DOTNET.pdb
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\obj\Debug\DataTypes_DOTNET.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\obj\Debug\DataTypes_DOTNET.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\obj\Debug\DataTypes_DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\obj\Debug\DataTypes_DOTNET.exe
+C:\Users\SID_17\source\repos\Day5\DataTypes_DOTNET\obj\Debug\DataTypes_DOTNET.pdb
