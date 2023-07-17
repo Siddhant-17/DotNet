@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day7\Generics\bin\Debug\Generics.exe.config
+C:\Users\SID_17\source\repos\Day7\Generics\bin\Debug\Generics.exe
+C:\Users\SID_17\source\repos\Day7\Generics\bin\Debug\Generics.pdb
+C:\Users\SID_17\source\repos\Day7\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day7\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day7\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day7\Generics\obj\Debug\Generics.exe
+C:\Users\SID_17\source\repos\Day7\Generics\obj\Debug\Generics.pdb
