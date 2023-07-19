@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\bin\Debug\Anonymousclass.exe.config
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\bin\Debug\Anonymousclass.exe
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\bin\Debug\Anonymousclass.pdb
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\obj\Debug\Anonymousclass.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\obj\Debug\Anonymousclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\obj\Debug\Anonymousclass.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\obj\Debug\Anonymousclass.exe
+C:\Users\SID_17\source\repos\Day 11\Anonymousclass\obj\Debug\Anonymousclass.pdb

@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\bin\Debug\LanguageFeatures.exe
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\obj\Debug\LanguageFeatures.exe
+C:\Users\SID_17\source\repos\Day 11\LanguageFeatures\obj\Debug\LanguageFeatures.pdb

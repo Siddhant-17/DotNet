@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day 11\PartialClass\bin\Debug\PartialClass.exe.config
+C:\Users\SID_17\source\repos\Day 11\PartialClass\bin\Debug\PartialClass.exe
+C:\Users\SID_17\source\repos\Day 11\PartialClass\bin\Debug\PartialClass.pdb
+C:\Users\SID_17\source\repos\Day 11\PartialClass\obj\Debug\PartialClass.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day 11\PartialClass\obj\Debug\PartialClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day 11\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day 11\PartialClass\obj\Debug\PartialClass.exe
+C:\Users\SID_17\source\repos\Day 11\PartialClass\obj\Debug\PartialClass.pdb

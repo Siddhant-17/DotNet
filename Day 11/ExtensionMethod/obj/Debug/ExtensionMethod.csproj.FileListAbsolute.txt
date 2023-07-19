@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\SID_17\source\repos\Day 11\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

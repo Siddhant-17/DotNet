@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\bin\Debug\PartialMethod.exe.config
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\bin\Debug\PartialMethod.exe
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\bin\Debug\PartialMethod.pdb
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\obj\Debug\PartialMethod.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\obj\Debug\PartialMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\obj\Debug\PartialMethod.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\obj\Debug\PartialMethod.exe
+C:\Users\SID_17\source\repos\Day 11\PartialMethod\obj\Debug\PartialMethod.pdb
