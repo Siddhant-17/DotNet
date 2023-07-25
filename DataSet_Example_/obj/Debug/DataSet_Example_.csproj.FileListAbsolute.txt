@@ -1,0 +1,11 @@
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\bin\Debug\DataSet_Example_.exe.config
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\bin\Debug\DataSet_Example_.exe
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\bin\Debug\DataSet_Example_.pdb
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.Form1.resources
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.Properties.Resources.resources
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.csproj.GenerateResource.cache
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.exe
+C:\Users\SID_17\source\repos\DotNet2\DataSet_Example_\obj\Debug\DataSet_Example_.pdb
