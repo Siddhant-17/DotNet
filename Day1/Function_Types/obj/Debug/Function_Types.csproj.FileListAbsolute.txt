@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\bin\Debug\Function_Types.exe.config
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\bin\Debug\Function_Types.exe
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\bin\Debug\Function_Types.pdb
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\obj\Debug\Function_Types.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\obj\Debug\Function_Types.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\obj\Debug\Function_Types.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\obj\Debug\Function_Types.exe
+C:\Users\SID_17\source\repos\DotNet2\Function_Types\obj\Debug\Function_Types.pdb
