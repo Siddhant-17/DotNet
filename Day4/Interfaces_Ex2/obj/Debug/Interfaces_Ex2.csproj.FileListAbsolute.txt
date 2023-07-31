@@ -1,0 +1,8 @@
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\bin\Debug\Interfaces_Ex2.exe.config
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\bin\Debug\Interfaces_Ex2.exe
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\bin\Debug\Interfaces_Ex2.pdb
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\obj\Debug\Interfaces_Ex2.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\obj\Debug\Interfaces_Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\obj\Debug\Interfaces_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\obj\Debug\Interfaces_Ex2.exe
+C:\Users\SID_17\source\repos\Day4\Interfaces_Ex2\obj\Debug\Interfaces_Ex2.pdb

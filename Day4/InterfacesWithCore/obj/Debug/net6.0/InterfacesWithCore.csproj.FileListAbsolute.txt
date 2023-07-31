@@ -1,0 +1,15 @@
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.csproj.AssemblyReference.cache
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.AssemblyInfoInputs.cache
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.AssemblyInfo.cs
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.csproj.CoreCompileInputs.cache
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\bin\Debug\net6.0\InterfacesWithCore.exe
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\bin\Debug\net6.0\InterfacesWithCore.deps.json
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\bin\Debug\net6.0\InterfacesWithCore.runtimeconfig.json
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\bin\Debug\net6.0\InterfacesWithCore.dll
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\bin\Debug\net6.0\InterfacesWithCore.pdb
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.dll
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\refint\InterfacesWithCore.dll
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.pdb
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\InterfacesWithCore.genruntimeconfig.cache
+C:\Users\SID_17\source\repos\Day4\InterfacesWithCore\obj\Debug\net6.0\ref\InterfacesWithCore.dll
